@@ -16,8 +16,8 @@ npm install
 
 Open a terminal in project root and run
 
-- `npm run start`
+- `npm start`
 
-View the page by going to
+View the page at
 
-- [http://localhost:1234](http://localhost:1234)
+- [http://localhost:3000](http://localhost:3000)
